@@ -9,9 +9,9 @@ struct node{
 		data=val;
 		left=NULL;
 		right=NULL;
-	}
 	
-};
+	
+
 int height(node* root){
 	if(root==NULL){
 		return 0;
