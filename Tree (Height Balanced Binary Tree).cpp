@@ -39,7 +39,7 @@ bool isBalanced(node* root){
 	else{
 		return false;
 		
-	}
+
 }
 int main(){
 		struct node* root= new node(1);
